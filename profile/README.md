@@ -1,5 +1,5 @@
 <div align="center">
-<img src="public/logo.png" height="120px" width="auto" /> 
+<img src="logo.png" height="120px" width="auto" /> 
 <h2 style="font-size: 24px">
  Lion Framework
 </h2>
