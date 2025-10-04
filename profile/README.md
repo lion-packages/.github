@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://github.com/lion-packages/.github/assets/56183278/7d8221df-5a43-4f69-944f-e1a6cc3ddaa8" height="120" alt="Lion Packages logo" />
-  
-  <h1 style="font-size: 32px; font-weight: bold;">Lion-Packages</h1>
-  
+  <img width="1920" height="1080" alt="presentation-lion-parking" src="https://github.com/user-attachments/assets/970a04d0-dc2a-4e38-9a96-1a00d04c3d2a" />
+    
   <p style="font-size: 18px;">
     A modular, fast, and open-source PHP ecosystem built for developers who seek performance and simplicity.
   </p>
